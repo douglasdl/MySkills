@@ -1,5 +1,25 @@
 # React Native CLI
 
+- Install Homebrew:
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+- Confirm if Homebrew is installed:
+```sh
+brew --version
+```
+
+- Install CocoaPods:
+```sh
+brew install cocoapods
+```
+
+Confirm if CocoaPods is installed:
+```sh
+pod --version
+```
+
 - Install [VS Code](https://code.visualstudio.com)
 - Install nvm (Node Version Manager):
 ```sh
