@@ -55,3 +55,10 @@ Create the project:
 ```sh
 npx react-native init myskills
 ```
+
+## [Adding TypeScript to an Existing Project](https://reactnative.dev/docs/typescript)
+
+Add TypeScript, types, and ESLint plugins to your project.:
+```sh
+npm install -D @tsconfig/react-native @types/jest @types/react @types/react-test-renderer typescript
+```
