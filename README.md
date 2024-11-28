@@ -62,3 +62,7 @@ Add TypeScript, types, and ESLint plugins to your project.:
 ```sh
 npm install -D @tsconfig/react-native @types/jest @types/react @types/react-test-renderer typescript
 ```
+
+- [Dev Docs](https://devdocs.io)
+
+- [Flipper](https://fbflipper.com)
