@@ -26,6 +26,7 @@ export function Home() {
       name: newSkill
     }
     setMySkills(oldState => [...oldState, data]);
+    setNewSkill("");
   }
 
   function handleRemoveSkill(id: string) {
@@ -55,6 +56,7 @@ export function Home() {
         style={styles.input}
         placeholder="New skill"
         placeholderTextColor="#555"
+        value={newSkill}
         onChangeText={setNewSkill}
         keyboardAppearance="dark"
       />
