@@ -56,6 +56,7 @@ export function Home() {
         placeholder="New skill"
         placeholderTextColor="#555"
         onChangeText={setNewSkill}
+        keyboardAppearance="dark"
       />
 
       <Button title="Add" onPress={handleAddNewSkill} />
