@@ -39,11 +39,11 @@
         "track": "internal",
         "serviceAccountKeyPath": "./google-services.json",
         "releaseStatus": "draft"
-      },
-      "ios": {
-        "appleId": "douglas_san@hotmail.com",
-        "ascAppId": ""
       }
+      // "ios": {
+      //   "appleId": "douglas_san@hotmail.com",
+      //   "ascAppId": ""
+      // }
     }
   }
 }
